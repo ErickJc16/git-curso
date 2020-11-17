@@ -23,8 +23,6 @@ with open(filename) as f:
         volt2 = float(row[2])
         volts2.append(volt2)
         
-        tiempo = np.array(times)
-        
         voltaje1 = np.array(volts1)
 
         voltaje2 = np.array(volts2)

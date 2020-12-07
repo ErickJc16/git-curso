@@ -52,7 +52,8 @@ with open(filename) as f:
 
     plt.show()
 
-    
+    print("Hello World")
+    input("Introduce algo")
     
 
 

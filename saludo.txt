@@ -1,4 +1,16 @@
 Hola Mundo
 Segunda linea
+<<<<<<< HEAD
 tercera linea
 
+=======
+tercera linea 
+cuarta linea
+quinta linea 
+sexta linea
+septima linea 
+octaba linea 
+novena linea - master 
+decima linea - python 
+onceava linea - master 
+>>>>>>> 3a1d33b436fafb6d99d572915048deadd816d793
